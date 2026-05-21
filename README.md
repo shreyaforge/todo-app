@@ -86,3 +86,5 @@ This project helped me understand:
 ## Author
 
 Shreya
+## Project Preview
+![Project output](output.PNG)
