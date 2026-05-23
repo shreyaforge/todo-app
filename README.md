@@ -1,4 +1,4 @@
-# Flask To-Do App
+# To-Do App
 
 A beginner-friendly To-Do List web application built using Flask, SQLite, HTML, Git, and GitHub.
 
